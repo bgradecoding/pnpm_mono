@@ -1,0 +1,20 @@
+{
+  "name": "designsys",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "design system with Figma",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgr/plugin-jsx": "^8.0.1",
+    "@svgr/plugin-prettier": "^8.0.1",
+    "@svgr/plugin-svgo": "^8.0.1",
+    "@svgr/core": "^8.0.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.1.3"
+  }
+}
